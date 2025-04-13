@@ -6,7 +6,7 @@ Snag words from URL paths to build quick wordlists for fuzzing
 Using go:
 
 ```sh
-go install github.com/ayushkr12/pathslapper@latest
+go install github.com/ayushkr12/pathlist@latest
 ```
 
 ## Usage:
